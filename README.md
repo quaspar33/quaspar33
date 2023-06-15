@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">A passionate backed developer from Poland</h3>
 <img align="right" src="https://pja.edu.pl/wp-content/themes/pjatk/img/logo_sygnet.svg" width="400">
 
 - 🔭 I’m currently working on [password-manager](https://github.com/quaspar33/simple-password-manager)
