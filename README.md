@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <img align="right" src="https://pja.edu.pl/wp-content/themes/pjatk/img/logo_sygnet.svg" width="400">
 
-- 🔭 I’m currently working on [simple-password-manager](https://github.com/quaspar33/simple-password-manager)
+- 🔭 I’m currently working on [event-organiser-application](https://github.com/quaspar33/event_organiser_application)
 
 - 🌱 I’m currently learning **Spring Boot**
 
