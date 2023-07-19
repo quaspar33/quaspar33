@@ -3,7 +3,7 @@
   
 - 🔭 I’m currently working on [event-organiser-application](https://github.com/quaspar33/event_organiser_application)
 
-- 🌱 I’m currently learning **Spring-Boot, React, TailwindCSS
+- 🌱 I’m currently learning Spring-Boot, React, TailwindCSS
 
 - 💬 Ask me about **Java, SQL, Maven**
 
